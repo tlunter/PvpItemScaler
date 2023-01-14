@@ -1,0 +1,4 @@
+## Interface: 100002
+## Title: PVP Item Scaler
+## Notes: Scales items to their max PVP item level
+PvpItemScaler.lua
